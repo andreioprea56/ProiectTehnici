@@ -1,0 +1,20 @@
+Tema: Construiti un site respectand cerintele de mai jos. Tematica site-ului este lasata la alegerea voastra.
+
+Cerinte minimale:
+
+Fisiere separate pentru HTML si CSS;
+
+In interiorul documentelor HTML, sa se foloseasca taguri semantice prezentate la curs/laborator, astfel incat sa treaca testul de validare;
+
+Stilurile CSS sa fie definite folosind clase;
+
+Site-ul sa fie responsive, respectand rezolutiile urmatoarelor dispozitive:
+
+telefon mobil - latime mai mica 768px;
+tableta - latime intre 768px si 1280px;
+desktop - latime mai mare de 1280px;
+Layout-ul sa fie realizat fara tabele;
+
+Sa se foloseasca animatii;
+
+Atentie! Nu puteti folosi framework-uri front-end pentru realizare
